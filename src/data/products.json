@@ -1,0 +1,54 @@
+[
+  {
+    "title": "patin",
+    "description": "patineta profecional",
+    "code": "2pb",
+    "price": 15.8,
+    "status": true,
+    "stock": 50,
+    "category": "juguete",
+    "thumbnails": [
+      " ruta/imagen1.jpg"
+    ],
+    "id": "1"
+  },
+  {
+    "title": "patin",
+    "description": "patineta profecional",
+    "code": "2pb",
+    "price": 5000,
+    "status": true,
+    "stock": 50,
+    "category": "juguete",
+    "thumbnails": [
+      " ruta/imagen1.jpg"
+    ],
+    "id": "2"
+  },
+  {
+    "title": "bicicleta ",
+    "description": "rodado 19",
+    "code": "2pb",
+    "price": 10000,
+    "status": true,
+    "stock": 100,
+    "category": "juguete",
+    "thumbnails": [
+      " ruta/imagen1.jpg"
+    ],
+    "id": "3"
+  },
+  {
+    "title": "computadora ",
+    "description": "completo",
+    "code": "2pb",
+    "price": 100,
+    "status": true,
+    "stock": 100,
+    "category": "informatica",
+    "thumbnails": [
+      " ruta/imagen1.jpg"
+    ],
+    "id": "4"
+  }
+]
